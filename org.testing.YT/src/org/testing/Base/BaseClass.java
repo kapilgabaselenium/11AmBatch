@@ -17,6 +17,7 @@ public class BaseClass
 	@BeforeMethod
 	public void bmethod() throws IOException
 	{	
+		System.out.println("Updating the code");
 	// System.setproperty
 	// chrome instance
 	// url hit	
